@@ -1,0 +1,42 @@
+[33mcommit ed40dabcf66626ea9aeca93caaebd474aebbbcd0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: shroom-test <shroomga@gmail.com>
+Date:   Fri May 3 07:06:58 2024 +0200
+
+    Changed file name of hello git image
+
+[33mcommit 3d047ce723b04285da6c9bbd3ddf11c6e89b6ce7[m
+Merge: 97d5d96 0ecdb59
+Author: shroom-test <shroomga@gmail.com>
+Date:   Fri May 3 07:05:39 2024 +0200
+
+    Merged with hello-world-images after fixing conflicts
+
+[33mcommit 0ecdb59a9610cfab2c785922c14b899b3ce5dd2a[m[33m ([m[1;32mhello-world-images[m[33m)[m
+Author: shroom-test <shroomga@gmail.com>
+Date:   Fri May 3 07:01:48 2024 +0200
+
+    added new image
+
+[33mcommit 97d5d96a45b5d7e853e5e6a5ff348ae65672ca9e[m
+Author: shroom-test <shroomga@gmail.com>
+Date:   Fri May 3 06:53:43 2024 +0200
+
+    Updated index.html with emergency fix
+
+[33mcommit d48520be3a1a3f1a07ebb3f33849de3ae3d01c9a[m
+Author: shroom-test <shroomga@gmail.com>
+Date:   Fri May 3 06:49:39 2024 +0200
+
+    Added image to Hello World!
+
+[33mcommit 634001fd1aea41fb8f41dc0b397b6bbcb735303c[m
+Author: shroom-test <shroomga@gmail.com>
+Date:   Thu May 2 22:36:19 2024 +0200
+
+    Updated index.html with a new line
+
+[33mcommit 7cea3f2a7b2f7ed5b13b37914a18bdea8e9cc2c5[m
+Author: shroom-test <shroomga@gmail.com>
+Date:   Thu May 2 22:34:41 2024 +0200
+
+    First release of Hello World!
